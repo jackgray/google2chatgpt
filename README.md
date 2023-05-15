@@ -1,0 +1,1 @@
+Experiment application to feed Google search results directly into the ChatGPT prompt for updated information (since Chat GPT's training is cut off in 2021)
